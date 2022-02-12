@@ -13,7 +13,7 @@
 - 📫 How to reach me:
 - <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:rudramadhabamishra@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/rudramadhaba-mishra-386a83176/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/rudramadhabami1)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/rudramadhaba.mishra)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/r.u.d.r.a_rm/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudramadhaba" alt="rudramadhaba" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rudramadhabami1" target="blank"><img src="https://img.shields.io/twitter/follow/rudramadhabami1?logo=twitter&style=for-the-badge" alt="rudramadhabami1" /></a> </p>
 
