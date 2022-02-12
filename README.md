@@ -11,7 +11,8 @@
 - 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
 - 😄 Pronouns: He/His
 - 📫 How to reach me:
-- <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:rohitkumarsahoo038@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/rohitkumarsahoo/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/RohitKu83120199)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/rohit.sahoo.7359)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/ro_hit0212/)
+- 
+<img align="center" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:rohitkumarsahoo038@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/rohitkumarsahoo/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/RohitKu83120199)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/rohit.sahoo.7359)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/ro_hit0212/)
 
 
 
