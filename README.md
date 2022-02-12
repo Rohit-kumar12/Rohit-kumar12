@@ -1,13 +1,13 @@
 <h1 align="center">Hey ! Its Rohit Kumar Sahoo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px"></h1> 
-<h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
+<h3 align="center">Python lover Data Science Enthusiast</h3>
 
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" />
 
-- 🔭 I’m currently working on Frontend development.
-- 🌱 I’m currently learning Reactjs and practicing DSA in C++. 
-- 👯 I’m looking to collaborate on frontend projects and social media marketing.
-- 🤔 I’m looking for help with Backend development.
-- 💬 Ask me about programming languages, social media and digital marketing.
+
+- 🔭 I’m currently working on C++ and Python.
+- 🌱 I’m currently learning Data Science. 
+- 👯 I’m looking to collaborate on projects on ML and Data science.
+- 🤔 I’m looking for help with Data Science.
+- 💬 Ask me about programming languages and DSA.
 - 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
 - 😄 Pronouns: He/His
 - 📫 How to reach me:
