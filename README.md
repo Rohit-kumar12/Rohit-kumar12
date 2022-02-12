@@ -11,7 +11,7 @@
 - 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
 - 😄 Pronouns: He/His
 - 📫 How to reach me:
-- <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:rudramadhabamishra@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/rudramadhaba-mishra-386a83176/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/rudramadhabami1)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/rudramadhaba.mishra)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/r.u.d.r.a_rm/)
+- <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:rohitkumarsahoo038@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/rudramadhaba-mishra-386a83176/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/rudramadhabami1)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/rudramadhaba.mishra)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/r.u.d.r.a_rm/)
 
 
 
