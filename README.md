@@ -3,10 +3,10 @@
 
 
 
-- 🔭 I’m currently working on C++ and Python.
-- 🌱 I’m currently learning Data Science. 
-- 👯 I’m looking to collaborate on projects on ML and Data science.
-- 🤔 I’m looking for help with Data Science.
+- 🔭 I’m currently working on C++ and Javascript.
+- 🌱 I’m currently learning Full Stack Development. 
+- 👯 I’m looking to collaborate on projects on Backend Technologies.
+- 🤔 I’m looking for help with Node.Js.
 - 💬 Ask me about programming languages and DSA.
 - 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
 - 😄 Pronouns: He/His
